@@ -1,7 +1,7 @@
 <h3 align="center">
-  <img
+    <img
     src="https://github.com/langsec-ai/.github/blob/main/banner.png?raw=true"
-    height="250"
+    style="aspect-ratio: 16/9; height: 250px; width: auto;"
   />
 </h3>
 
