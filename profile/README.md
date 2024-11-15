@@ -4,4 +4,11 @@
         height="110"/>
 </h3>
 
-# langsec-ai
+# Full Text-to-SQL Injection Protection
+
+> See Demo - https://github.com/langsec-ai/demo
+
+# Quick Start
+
+> https://docs.lang-sec.com/quick-start/
+
